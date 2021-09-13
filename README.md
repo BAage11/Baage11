@@ -39,9 +39,8 @@ A special thank you to 'tomkaX' for this template!
 - 📫 How to reach me **benjaminaage@hotmail.com**
 
 
-
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=BAage11&show_icons=true" alt="BAage11" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BAage11&theme=calm&show_icons=true" alt="BAage11" />
   <img  align="right" src="https://media1.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e477edf7fh9txxwi367f9gnxoksqe08u6jn0t2ocsmq&rid=giphy.gif&ct=g" width="230">
  </p>
  
