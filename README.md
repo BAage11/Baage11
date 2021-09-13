@@ -1,19 +1,7 @@
 
 <!--
-**tomkaX/tomkaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+A special thank you to 'tomkaX' for this template!
 -->
-
 
 <h1 align="center">Hi 👋, I'm Benjamin Aage </h1>
 <h3 align="center">A passionate Computer Scientist & Business Administrator, <br>as well an Open Source contributor  </h3>
@@ -41,12 +29,9 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=BAage11&show_icons=true" alt="BAage11" />
-  <img  align="right" src="https://github.com/BAage11/BAage11/blob/master/gifs/3aM.gif" width="230">
+  <img  align="right" src="https://media1.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e477edf7fh9txxwi367f9gnxoksqe08u6jn0t2ocsmq&rid=giphy.gif&ct=g" width="230">
  </p>
- <!--
-Don't forget to fork this repo and say thanks to **tomkaX/tomkaX** it  appears on your GitHub profile.
--->
-
+ 
 <p align="center">
 <a href="https://www.facebook.com/benjaminaage" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/benjaminaage" height="20" width="20" /></a>
 <a href="https://www.instagram.com/benniaage/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/benniaage/" height="20" width="20" /></a>
